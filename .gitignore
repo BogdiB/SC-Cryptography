@@ -1,0 +1,3 @@
+# ignore everything in the Caesar file except for the source code
+Caesar/*
+!Caesar/caesar.c
