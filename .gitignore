@@ -1,3 +1,9 @@
+.vscode
+
 # ignore everything in the Caesar file except for the source code
 Caesar/*
 !Caesar/caesar.c
+
+SHA1/*
+!SHA1/updatedsha1.h
+!SHA1/updatedsha1.cpp
